@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\ejercicio expocision\bin\Debug\net7.0\ejercicio expocision.exe
+C:\Users\HP\Desktop\ejercicio expocision\bin\Debug\net7.0\ejercicio expocision.deps.json
+C:\Users\HP\Desktop\ejercicio expocision\bin\Debug\net7.0\ejercicio expocision.runtimeconfig.json
+C:\Users\HP\Desktop\ejercicio expocision\bin\Debug\net7.0\ejercicio expocision.dll
+C:\Users\HP\Desktop\ejercicio expocision\bin\Debug\net7.0\ejercicio expocision.pdb
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ejercicio expocision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ejercicio expocision.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ejercicio expocision.AssemblyInfo.cs
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ejercicio expocision.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ejercicio expocision.dll
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\refint\ejercicio expocision.dll
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ejercicio expocision.pdb
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ejercicio expocision.genruntimeconfig.cache
+C:\Users\HP\Desktop\ejercicio expocision\obj\Debug\net7.0\ref\ejercicio expocision.dll
